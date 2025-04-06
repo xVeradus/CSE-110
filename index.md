@@ -12,11 +12,11 @@ where I'm actively involved in projects combining technology and business proces
 
 ## 🔖 Structure
 
-[What I do](#what-I-do)\
-[Education](#education)\
-[International Background](#international-background)\
-[Interest & Skills](#interest--skills)\
-[My Socials](#my-socials)\
+[What I do](#-what-i-do)\
+[Education](#-education)\
+[International Background](#-international-background)\
+[Interest & Skills](#-interest--skills)\
+[My Socials](#-my-socials)
 
 ## 🎟️ What I do
 
