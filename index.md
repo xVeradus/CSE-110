@@ -1,4 +1,4 @@
-# :wave: Hi, I'm Menko
+# 👋 Hi, I'm Menko
 
 ![Picture of me](bewerbungsfoto.jpg)
 
@@ -10,15 +10,15 @@ I am completing the practical part of my studies at:
 
 where I'm actively involved in projects combining technology and business processes. 
 
-## :bookmark: Structure
+## 🔖 Structure
 
-[What I do](#what-I-do)
-[Education](#education)
-[International Background](#international-background)
-[Interest & Skills](#interest--skills)
-[My Socials](#my-socials)
+[What I do](#what-I-do)\
+[Education](#education)\
+[International Background](#international-background)\
+[Interest & Skills](#interest--skills)\
+[My Socials](#my-socials)\
 
-## :ticket: What I do
+## 🎟️ What I do
 
 As a programmer, I'm passionate about developing Applications and improving my knowledge. To learn I took different online Programming courses:
 - [x] Harvard CS50: Introduction to Computer Science
@@ -27,17 +27,17 @@ As a programmer, I'm passionate about developing Applications and improving my k
 
 
 
-## :mortar_board: Education
+## 🎓 Education
 
 1. _IGS Flötenteich Oldenburg_
 2. _DHBW Villingen-Schwenningen_
 3. _University of California San Diego_
 
-## :globe_with_meridians: International Background
+## 🌐 International Background
 
 Being an international student allows me to bring a diverse perspective to my work, embracing cross-cultural collaboration and communication in all projects.
 
-## :bulb: Interest & Skills
+## 💡 Interest & Skills
 - **Programming:**
   -  `Python`
   -  `SQL`
@@ -47,9 +47,9 @@ Being an international student allows me to bring a diverse perspective to my wo
   - Problem-solving
   - Fotos [(My Favourite Picture)](IMG_9638_jpg.JPG)
 
-### :postbox: My socials
+### 📮 My socials
 
-[LinkedIn](https://www.linkedin.com/in/menko-hornstein/)
+[LinkedIn](https://www.linkedin.com/in/menko-hornstein/)\
 [GitHub](https://github.com/xVeradus)
 
 ![DHBW Logo](image.png)
